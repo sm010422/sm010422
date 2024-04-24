@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi I'm SangMin 👋
+Computer Engineering Student in Korea!
 
 <!--
 **sm010422/sm010422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
