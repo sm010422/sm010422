@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,java,py,mysql.neovim.linux,postman,idea,pychar,sublime,vscode,notion)](https://skillicons.dev)
