@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm010422&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sm010422&show_icons=true&theme=radical)
 
-[![My Skills](https://skillicons.dev/icons?i=git,java,py,mysql,neovim,linux,postman,idea,pycharm,sublime,vscode,notion,iterm2)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,git,java,py,mysql,neovim,vim,linux,postman,idea,pycharm,sublime,vscode,notion,github,)](https://skillicons.dev)
