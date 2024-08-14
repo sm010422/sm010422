@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sm010422&show_icons=true&theme=radical)
 
+---
+
 [![My Skills](https://skillicons.dev/icons?i=apple,git,github,java,py,mysql,mongodb,spring,neovim,vim,linux,postman,idea,pycharm,sublime,vscode,notion,md)](https://skillicons.dev)
 
 <a href="https://github.com/sm010422"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsm010422&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
