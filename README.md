@@ -29,6 +29,12 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sm010422&show_icons=true&theme=radical)
 
+<p>
+    <!-- <img width="56.1%" alt="wakatimestat" src="https://user-images.githubusercontent.com/48207131/166133232-0d06f860-6d55-419c-89e3-6f28fc76467c.svg" /> -->
+    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm010422&layout=compact&theme=dark&hide_border=true&langs_count=6&v=2" />
+    <img width="46%" src="https://github-readme-stats.vercel.app/api?username=sm010422&theme=dark&hide_border=true&count_private=true"/>
+</p>
+
 ---
 
 [![My Skills](https://skillicons.dev/icons?i=apple,git,github,java,py,mysql,mongodb,spring,neovim,vim,linux,postman,idea,pycharm,sublime,vscode,notion,md)](https://skillicons.dev)
