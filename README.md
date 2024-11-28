@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ---
 ## SangMin's Toolkit
-[![My Skills](https://skillicons.dev/icons?i=apple,git,github,java,py,mysql,mongodb,spring,neovim,vim,linux,postman,idea,pycharm,sublime,vscode,notion,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,git,github,java,py,mysql,mongodb,spring,react,neovim,vim,linux,postman,idea,pycharm,sublime,vscode,notion,md)](https://skillicons.dev)
 
 ## My Major TextEditor
 [![My Skills](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev)
