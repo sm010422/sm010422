@@ -14,6 +14,9 @@ Junior Back-End Developer in Korea.
 ## SangMin's Toolkit
 [![My Skills](https://skillicons.dev/icons?i=apple,git,github,java,py,mysql,mongodb,spring,kafka,neovim,vim,linux,postman,idea,notion,md)](https://skillicons.dev)
 
+---
+![](https://leetcard.jacoblin.cool/jacoblincool?border=0&radius=20)
+
 ## My Major TextEditor
 [![My Skills](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev)
 <div align="left">
