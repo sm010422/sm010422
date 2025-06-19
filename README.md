@@ -1,7 +1,7 @@
 # Welcome
 ### Hi I'm SangMin 👋
 
-Super Junior Back-End Developer in Korea.
+
 ---
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sm010422&utm_content=line">
   <img
