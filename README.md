@@ -17,7 +17,7 @@
 ### Languages & Github Stats
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm010422&layout=compact&theme=dark&hide_border=true&langs_count=6&v=2" style="width: 49%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm010422&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=javascript,html,css" style="width: 49%; height: auto;" />
   <img src="https://github-readme-stats.vercel.app/api?username=sm010422&theme=dark&hide_border=true&count_private=true" style="width: 49%; height: auto;" />
 </div>
 
