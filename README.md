@@ -24,7 +24,7 @@
 
 ---
 ## SangMin's Toolkit
-[![My Skills](https://skillicons.dev/icons?i=apple,git,github,java,py,mysql,postgresql,spring,docker,kubernetes,nginx,redis,kafka,aws,grafana,neovim,vim,idea,linux,bash,postman,jenkins,githubactions,notion,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,git,github,java,py,mysql,mongodb,postgresql,spring,hibernate,docker,kubernetes,nginx,redis,kafka,aws,grafana,prometheus,neovim,vim,idea,linux,bash,postman,jenkins,githubactions,notion,md)](https://skillicons.dev)
 
 ---
 ### LeetCode
