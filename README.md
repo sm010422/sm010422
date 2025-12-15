@@ -65,7 +65,7 @@ height="300"
 
 **Languages & Tools**
 <br>
-<img src="https://skillicons.dev/icons?i=py,git,github,postman,notion,md,vim,neovim,idea" />
+<img src="https://skillicons.dev/icons?i=py,apple,git,github,postman,notion,md,vim,neovim,idea" />
 
 <br>
 
