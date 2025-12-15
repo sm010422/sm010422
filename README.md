@@ -5,7 +5,6 @@
 
 <div align="center">
   
-  <a href="mailto:sm0104224@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:본인이메일@gmail.com"/></a>
   <a href="https://velog.io/@sm010422/posts"><img src="https://img.shields.io/badge/Blog-Velog-11B569?style=flat-square&logo=velog&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/%EC%83%81%EB%AF%BC-%EB%B0%95-985026297/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
@@ -14,9 +13,15 @@
 <br>
 
 <div align="center">
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sm010422&utm_content=line">
-  <img src="https://render.gitanimals.org/lines/sm010422" width="600" height="120" />
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sm010422&utm_content=farm">
+<img
+src="https://render.gitanimals.org/farms/sm010422"
+width="600"
+height="300"
+/>
 </a>
+
 </div>
 
 <br>
@@ -26,18 +31,23 @@
 ## 🚀 Featured Projects
 
 ### 🥦 [SikjajaeDeal (식자재딜)](https://github.com/sikjajaeDeal)
-> **프로젝트 한 줄 설명 (예: B2B 식자재 중개 플랫폼)**
-- **Description**: 식자재 유통의 비효율을 해결하기 위한 중개 플랫폼입니다. (이 부분에 핵심 해결 과제나 본인의 기여도를 1-2줄 적으면 좋습니다.)
-- **Tech Stack**: `Java`, `Spring Boot`, `JPA`, `MySQL`, `Redis`, `Docker`
-- **Key Function**: 실시간 경매 시스템, 재고 관리 자동화
+> **위치 기반 B2B 식자재 거래 & 검색 최적화 플랫폼**
+- **Description**: 식자재 유통 데이터를 **Elasticsearch**로 인덱싱하여 대용량 데이터 검색 성능을 최적화하고, **KakaoMap API**를 활용해 거래처 위치를 시각화한 지도 기반 거래 플랫폼입니다. 프론트엔드 전반을 담당하며 지도 렌더링 및 검색 UI/UX를 주도적으로 구현했습니다.
+- **Tech Stack**: `Java`, `Spring Boot`, `JPA`, `MySQL`, `Redis`, `Docker`, `Elasticsearch`, `Kibana`, `KakaoMap API`
+- **Key Function**:
+    - **Elasticsearch** 기반 대용량 식자재 데이터 검색 엔진 구축 및 성능 최적화
+    - **KakaoMap Open API**를 활용한 사용자 위치 기반 매물 매칭 시스템
 
 <br>
 
 ### 💬 [LikeLion-RealTalk](https://github.com/LikeLion-RealTalk)
-> **프로젝트 한 줄 설명 (예: 실시간 소통을 위한 커뮤니티 서비스)**
-- **Description**: 멋쟁이사자처럼 활동 중 개발한 실시간 채팅 및 커뮤니티 서비스입니다.
-- **Tech Stack**: `Java`, `Spring Boot`, `WebSocket`, `Kafka`, `MongoDB`
-- **Key Function**: 대용량 트래픽 처리를 위한 메시지 큐 적용, 소켓 통신 최적화
+> **Claude AI 기반 팩트체크가 포함된 실시간 토론 플랫폼**
+- **Description**: 찬성/반대 진영을 나누어 실시간으로 토론하고, **Claude AI**를 연동해 주장 내용의 사실 여부를 검증해주는 서비스입니다. WebSocket 환경에서의 동시성 제어와 성능 최적화에 집중했습니다.
+- **Tech Stack**: `Java`, `Spring Boot`, `WebSocket`, `Redis`, `Docker`, `Claude API`
+- **My Role & Key Function**:
+    - **WebSocket Pub/Sub** 패턴을 적용하여 실시간 토론방 입장 및 채팅 동기화 구현
+    - **Redis Caching**: 빈번하게 변동되는 참여자 정보(찬/반 진영)를 DB가 아닌 Redis에 캐싱하여 조회 속도 개선 및 DB 부하 최소화
+    - Redis에 저장된 데이터를 집계하여 실시간 여론(찬반 퍼센트) 및 참여자 수 분석 로직 구현
 
 <br>
 
