@@ -7,6 +7,7 @@
   
   <a href="https://velog.io/@sm010422/posts"><img src="https://img.shields.io/badge/Blog-Velog-11B569?style=flat-square&logo=velog&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/%EC%83%81%EB%AF%BC-%EB%B0%95-985026297/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://marmalade-lemming-3ae.notion.site/Study-56a666da01334f43ac9e2b33e6c08886"><img src="https://img.shields.io/badge/Study-Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
 </div>
 
