@@ -1,22 +1,16 @@
-name: WakaTime Stats Update
+name: Waka Readme
 
 on:
   schedule:
-    # 매일 밤 12시(UTC)에 실행 (한국 시간 오전 9시)
-    - cron: '0 0 * * *'
-  workflow_dispatch: # 수동 실행 가능하게 함
-
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
 jobs:
   update-readme:
-    name: Update Readme with WakaTime Stats
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/wakatime-readme-stats@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_OS: "False" # OS 정보 숨기기 (원하면 True)
-          SHOW_PROJECTS: "False" # 프로젝트 이름 숨기기 (보안상 추천)
-          SHOW_EDITORS: "False" # 에디터 정보 숨기기
-          SHOW_TIMEZONE: "Asia/Seoul" # 한국 시간 기준
-          # 랭킹, 총 코딩 시간 등을 보여줌
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
