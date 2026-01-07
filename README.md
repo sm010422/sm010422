@@ -76,8 +76,8 @@ height="300"
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sm010422&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=javascript,html,css" style="width: 48%;" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sm010422&theme=dark&hide_border=true&count_private=true" style="width: 48%;" />
+    <img height="200em" src="https://github-readme-stats-sm010422.vercel.app/api/top-langs/?username=sm010422&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=javascript,html,css" />
+    <img height="200em" src="https://github-readme-stats-sm010422.vercel.app/api?username=sm010422&theme=dark&hide_border=true&count_private=true" />
   </div>
 </div>
 
