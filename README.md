@@ -77,7 +77,7 @@ height="300"
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img height="200em" src="https://github-readme-stats-sm010422.vercel.app/api/top-langs/?username=sm010422&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=javascript,html,css" />
-    <img height="200em" src="https://github-readme-stats-sm010422.vercel.app/api?username=sm010422&theme=dark&hide_border=true&count_private=true" />
+    <img height="200em" src="https://github-readme-stats-sm010422.vercel.app/api?username=sm010422&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
   </div>
 </div>
 
