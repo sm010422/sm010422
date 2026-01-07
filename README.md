@@ -84,6 +84,9 @@ height="300"
 <br>
 <!--start_section:waka-->
 <!--END_SECTION:waka-->
+---
+
+## 📊 WakaTime Stats
 
 <div align="center">
   <img src="https://wakatime.com/share/@583a8256-10d0-4e1e-b350-cb9e4234e3b3/0dc9da9c-8d19-481b-a00e-fc373a40bce2.svg" height="500" />
