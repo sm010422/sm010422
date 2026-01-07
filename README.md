@@ -84,7 +84,6 @@ height="300"
 <br>
 <!--start_section:waka-->
 <!--END_SECTION:waka-->
----
 
 ## 📊 WakaTime Stats
 
