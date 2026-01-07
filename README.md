@@ -91,7 +91,7 @@ height="300"
   <img src="https://wakatime.com/share/@583a8256-10d0-4e1e-b350-cb9e4234e3b3/0dc9da9c-8d19-481b-a00e-fc373a40bce2.svg" height="500" />
 </div>
 
-### 🧩 LeetCode
+## 🧩 LeetCode
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/sm010422?border=0&radius=20&theme=dark" width="98%" />
 </div>
