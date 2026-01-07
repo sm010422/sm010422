@@ -93,7 +93,7 @@ height="300"
 
 ## 🧩 LeetCode
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/sm010422?border=0&radius=20&theme=dark" width="98%" />
+  <img height="200em" src="https://leetcard.jacoblin.cool/sm010422?border=0&radius=20&theme=dark" width="98%" />
 </div>
 
 <br>
