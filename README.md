@@ -63,7 +63,7 @@ height="300"
 
 **Backend**
 <br>
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb,postgresql,redis,kafka,elasticsearch" />
+<img src="https://skillicons.dev/icons?i=java,spring,gradle,hibernate,mysql,mongodb,postgresql,redis,kafka,elasticsearch" />
 
 **DevOps & Infrastructure**
 <br>
