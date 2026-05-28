@@ -97,7 +97,7 @@ height="300"
 </div> -->
 <div align="center">
   <img
-    src="https://github-readme-stats-sm010422.vercel.app/api/wakatime?username=sm010422&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&custom_title=WakaTime%20Stats&disable_animations=true"
+    src="https://github-readme-stats-sm010422.vercel.app/api/wakatime?username=sm010422&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&custom_title=WakaTime%20Stats&disable_animations=true&v=1"
     alt="WakaTime Stats"
   />
 </div>
