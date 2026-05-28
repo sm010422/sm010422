@@ -95,6 +95,7 @@ height="300"
 <!-- <div align="center">
   <img src="https://wakatime.com/share/@583a8256-10d0-4e1e-b350-cb9e4234e3b3/0dc9da9c-8d19-481b-a00e-fc373a40bce2.svg" height="500" />
 </div> -->
+> 💡 **Other** includes terminal usage time tracked by WakaTime (tmux, zsh, etc.)
 <div align="center">
   <img
     src="https://github-readme-stats-sm010422.vercel.app/api/wakatime?username=sm010422&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&custom_title=WakaTime%20Stats&disable_animations=true&v=1"
