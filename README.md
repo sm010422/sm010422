@@ -88,6 +88,91 @@ height="300"
 
 <br>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-987%20hrs%2045%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 269.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,336 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 25 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1162 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+🌆 Daytime                5347 commits        █████████░░░░░░░░░░░░░░░░   37.07 % 
+🌃 Evening                4476 commits        ████████░░░░░░░░░░░░░░░░░   31.03 % 
+🌙 Night                  3440 commits        ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   1718 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Tuesday                  2186 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Wednesday                2374 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Thursday                 1959 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Friday                   3074 commits        █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+Saturday                 1970 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Sunday                   1144 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+Other                    8 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   40.61 % 
+TypeScript               4 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+Java                     3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+dbout                    1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+
+🔥 Editors: 
+Claude Code              6 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   32.46 % 
+Neovim                   4 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+iTerm2                   4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+Notion                   3 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+Unknown Editor           1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+
+🐱‍💻 Projects: 
+Sofly_Front              10 hrs 40 mins      █████████████░░░░░░░░░░░░   51.01 % 
+Sofly_Back               5 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+Unknown Project          1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+sentinel-stack           1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+LazyVim                  36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+
+💻 Operating System: 
+Mac                      20 hrs 55 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     15 repos            ███████████░░░░░░░░░░░░░░   44.12 % 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/sm010422/sm010422/master/assets/bar_graph.png)
+
+
+ Last Updated on 28/05/2026 04:42:11 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 WakaTime Stats
