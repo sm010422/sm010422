@@ -68,7 +68,7 @@ height="300"
 
 **DevOps & Infrastructure**
 <br>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,jenkins,githubactions,grafana,prometheus,linux,ubuntu,bash" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,nginx,jenkins,githubactions,grafana,prometheus,linux,ubuntu,bash" />
 
 **Languages & Tools**
 <br>
