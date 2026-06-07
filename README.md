@@ -145,6 +145,24 @@ height="300"
 
 <br>
 
+### [Snowpeak Game](https://github.com/sm010422/snowpeak_game)
+> **실시간 협동 카페 운영 시뮬레이션 게임 — Race Condition & 동시성 제어**
+
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.x-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket_STOMP-010101?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+실제 아르바이트 경험을 바탕으로 만든 멀티플레이 협동 타이쿤 게임. 홀·바 역할 분담으로 손님을 응대하는 구조이며, 핵심 목표는 **동시성 문제 해결**입니다.
+
+- **Lua Script 원자성 보장** — 두 플레이어가 동일 주문을 동시에 집는 Race Condition을 Redis Lua Script로 원천 차단
+- **Producer-Consumer 패턴** — 주문 대기열을 Redis List로 구현, 주방·홀 간 비동기 처리
+- **Redis SETNX** — 테이블 중복 배정 방지 / **Pub/Sub** — 주문 상태 변경을 전 직원에게 실시간 전파
+- WebSocket(STOMP)으로 매장 전체 상태(주문·테이블) 실시간 동기화
+
+<br>
+
 ### [LikeLion-RealTalk](https://github.com/LikeLion-RealTalk)
 > **Claude AI 팩트체크 기반 실시간 토론 플랫폼**
 
@@ -156,6 +174,17 @@ height="300"
 - **WebSocket Pub/Sub** 패턴으로 실시간 토론방 입장 및 채팅 동기화 구현
 - 참여자 찬/반 진영 정보를 Redis에 캐싱하여 DB 부하 최소화 및 조회 속도 개선
 - 실시간 여론(찬반 퍼센트) 및 참여자 수 집계 로직 구현
+
+### [memory-viz](https://github.com/sm010422/memory-viz)
+> **macOS 메모리 구조 실시간 시각화 도구**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+
+- `vm_stat` · `ps aux` · `vmmap` 세 시스템 명령어를 주기적으로 실행해 macOS 메모리 구조를 브라우저에서 실시간 시각화
+- 물리 메모리를 wired·active·inactive·compressed·free 5구역으로 분류하여 표시
+- 프로세스 클릭 시 `vmmap --wide <PID>` 로 **가상 주소 공간(Stack·Heap·\_\_TEXT·\_\_DATA)** 레이아웃 시각화
+- OS 페이지 관리 메커니즘을 직접 파고든 시스템 레벨 프로젝트
 
 <br>
 
