@@ -248,78 +248,30 @@ height="300"
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 270.1 kB Used in GitHub's Storage 
+> 📦 270.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,594 Contributions in the Year 2026
+> 🏆 1,598 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 31 Public Repositories 
+> 📜 32 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1194 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-🌆 Daytime                5493 commits        █████████░░░░░░░░░░░░░░░░   37.26 % 
-🌃 Evening                4597 commits        ████████░░░░░░░░░░░░░░░░░   31.18 % 
-🌙 Night                  3460 commits        ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   1805 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Tuesday                  2249 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Wednesday                2420 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Thursday                 1995 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Friday                   3116 commits        █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
-Saturday                 1988 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Sunday                   1171 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    14 hrs 10 mins      ███████████████████░░░░░░   74.25 % 
-YAML                     3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-Markdown                 1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-
-🔥 Editors: 
-Ghostty                  7 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   41.47 % 
-iTerm2                   6 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   33.68 % 
-Claude Code              3 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-Neovim                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-
-🐱‍💻 Projects: 
-k3s-msa-infrastructure   10 hrs 25 mins      ██████████████░░░░░░░░░░░   54.65 % 
-k9s                      7 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   39.13 % 
-Unknown Project          55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-terminal_backup          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-target-tracking-service  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-
-💻 Operating System: 
-Mac                      19 hrs 5 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Ruby                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Ruby                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 
 
 
 
- Last Updated on 23/07/2026 20:00:19 UTC
+ Last Updated on 24/07/2026 20:00:13 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 WakaTime Stats
