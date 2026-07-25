@@ -250,7 +250,7 @@ height="300"
 
 > 📦 270.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,598 Contributions in the Year 2026
+> 🏆 1,605 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -258,6 +258,54 @@ height="300"
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1194 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+🌆 Daytime                5500 commits        █████████░░░░░░░░░░░░░░░░   37.28 % 
+🌃 Evening                4600 commits        ████████░░░░░░░░░░░░░░░░░   31.18 % 
+🌙 Night                  3460 commits        ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   1805 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Tuesday                  2249 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Wednesday                2420 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Thursday                 1995 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Friday                   3120 commits        █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
+Saturday                 1994 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Sunday                   1171 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    13 hrs 55 mins      ██████████████████░░░░░░░   70.23 % 
+YAML                     3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Markdown                 1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+
+🔥 Editors: 
+Ghostty                  8 hrs 59 mins       ███████████░░░░░░░░░░░░░░   45.34 % 
+iTerm2                   5 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   26.58 % 
+Claude Code              4 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+Neovim                   1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+
+🐱‍💻 Projects: 
+k3s-msa-infrastructure   10 hrs 45 mins      ██████████████░░░░░░░░░░░   54.31 % 
+k9s                      7 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   37.69 % 
+Unknown Project          55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+threat-intel-ai-service  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+target-tracking-service  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+
+💻 Operating System: 
+Mac                      19 hrs 48 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -271,7 +319,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 20:00:13 UTC
+ Last Updated on 25/07/2026 19:48:37 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 WakaTime Stats
