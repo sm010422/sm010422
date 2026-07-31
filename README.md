@@ -55,20 +55,26 @@ height="300"
 
 <br>
 
-### C4I System — [Target Tracking Service](https://github.com/sm010422/target-tracking-service) · [Defense API Gateway](https://github.com/sm010422/defense-api-gateway)
-> **실시간 전술 객체 추적 시스템 (맥북 2대 + VM 3개 K3s 클러스터)**
+### C4I System — [Target Tracking Service](https://github.com/sm010422/target-tracking-service) · [Defense API Gateway](https://github.com/sm010422/defense-api-gateway) · [Threat Intel AI Service](https://github.com/sm010422/threat-intel-ai-service)
+> **실시간 전술 객체 추적 + AI 위협 분석 폴리글랏 MSA (맥북 2대 + Multipass VM 3개 K3s 클러스터, GitOps 자동배포)**
 
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![K3s](https://img.shields.io/badge/K3s-FFC61C?style=flat-square&logo=kubernetes&logoColor=black)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square)
 
-드론/레이더 센서 데이터를 초당 다량 수집하여 지휘통제실 대시보드로 실시간 전송하는 MSA 시스템입니다.
+드론 시뮬레이터와 실제 공개 ADS-B 피드(adsb.fi)로 전술 객체를 실시간 수집해 지휘통제 대시보드로 전송하고, 서로 다른 관점(단일 표적 룰 vs 이력·문서 검색)의 AI 서비스 2개가 위협을 분석하는 구조입니다.
 
-- **Target Tracking**: Kafka 비동기 파이프라인 → WebSocket 실시간 전송 → PostgreSQL 이력 저장
-- **API Gateway**: Spring Cloud Gateway + JWT 글로벌 인증 필터 → 내부 서비스 단일 진입점 통제
-- K3s 다중 Pod 복제 + 자동 Failover로 노드 장애 시 무중단 운영
+- **Target Tracking**: Kafka 비동기 파이프라인 → WebSocket 실시간 전송 → PostgreSQL 이력 저장. 드론 시뮬레이터 외에 adsb.fi 공개 피드로 실제 항공기(군용기 판별 포함)를 같은 파이프라인에 발행
+- **AI 위협 분석**: pgvector HNSW 유사도 검색 + Gemini RAG로 탐지 표적별 SITREP 자동 생성, API 키 미설정 시 규칙 기반으로 자동 폴백(Graceful Degradation)
+- **Threat Intel AI Service**: FastAPI + LangGraph + Qdrant로 만든 별도 Python 마이크로서비스가 같은 Kafka 토픽을 독립 consumer group으로 구독 — 탐지 이력 벡터 검색과 위협 인텔 문서 RAG 챗봇(SSE 스트리밍)을 오프셋 공유 없이 병행 제공
+- **API Gateway**: Spring Cloud Gateway 라우팅 + JWT 인증 필터/Spring Security 구현 및 단위 테스트 완료
+- **GitOps 배포**: GitHub Actions → Docker Hub → ArgoCD Image Updater가 이미지 변경을 자동 감지해 인프라 레포에 write-back 커밋 → 클러스터 반영까지 무개입 자동화를 실측 검증
+- VMware→Multipass 마이그레이션으로 반복되던 노드 OOM/NotReady 장애를 해소, podAntiAffinity로 워크로드를 노드별로 분산 배치, Tailscale Funnel로 대시보드를 공인 인터넷에 노출
 
 <br>
 
