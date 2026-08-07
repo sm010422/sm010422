@@ -252,7 +252,7 @@ height="300"
 
 <br>
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-101%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-101%20hrs%2045%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -291,48 +291,47 @@ Sunday                   1171 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 49 mins       ██████████████░░░░░░░░░░░   55.17 % 
-Other                    2 hrs 1 min         ██████████░░░░░░░░░░░░░░░   39.44 % 
-Java                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Markdown                 2 hrs 51 mins       ████████████████░░░░░░░░░   64.73 % 
+Other                    1 hr 28 mins        ████████░░░░░░░░░░░░░░░░░   33.30 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Ghostty                  2 hrs 55 mins       ██████████████░░░░░░░░░░░   56.93 % 
-Claude Code              2 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   40.24 % 
-iTerm2                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-Neovim                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Ghostty                  2 hrs 3 mins        ████████████░░░░░░░░░░░░░   46.50 % 
+Claude Code              1 hr 56 mins        ███████████░░░░░░░░░░░░░░   43.66 % 
+iTerm2                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Neovim                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 🐱‍💻 Projects: 
-k3s-msa-infrastructure   2 hrs 51 mins       ██████████████░░░░░░░░░░░   55.70 % 
-target-tracking-service  2 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   41.12 % 
-threat-intel-ai-service  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-sm010422                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+k3s-msa-infrastructure   3 hrs 19 mins       ███████████████████░░░░░░   75.14 % 
+target-tracking-service  1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+sm010422                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 💻 Operating System: 
-Mac                      5 hrs 7 mins        █████████████████████████   100.00 % 
+Mac                      4 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 44 mins (73.06%)
+⏱ AI Coding Time: 3 hrs 9 mins (71.33%)
 
-✍️ 283 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 191 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 13,936,677 Input Tokens, 117,654 Output Tokens
+🔤 13,667,962 Input Tokens, 116,812 Output Tokens
 
-💵 $46.02 Estimated AI Cost This Week
+💵 $45.48 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 76 AI Prompts
+🧠 5 AI Sessions, 69 AI Prompts
 
-Sonnet                   178 lines           █████████████████████████   100.00 % 
+Sonnet                   86 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 118 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 0.7% of changed lines were hand-edited
+📝 Concise Prompter — average 140 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 1.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -348,7 +347,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 20:15:02 UTC
+ Last Updated on 07/08/2026 00:28:38 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 WakaTime Stats
