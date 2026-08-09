@@ -298,10 +298,10 @@ YAML                     2 mins              ░░░░░░░░░░░�
 SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-Ghostty                  2 hrs               ███████████░░░░░░░░░░░░░░   43.97 % 
-Claude Code              1 hr 50 mins        ██████████░░░░░░░░░░░░░░░   40.25 % 
-iTerm2                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Neovim                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Ghostty                  2 hrs               ███████████░░░░░░░░░░░░░░   44.15 % 
+Claude Code              1 hr 49 mins        ██████████░░░░░░░░░░░░░░░   40.00 % 
+iTerm2                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Neovim                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
 
 🐱‍💻 Projects: 
 k3s-msa-infrastructure   3 hrs 36 mins       ████████████████████░░░░░   79.24 % 
@@ -321,11 +321,11 @@ Mac                      4 hrs 33 mins       ███████████�
 
 🔤 11,621,691 Input Tokens, 100,608 Output Tokens
 
-💵 $41.30 Estimated AI Cost This Week
+💵 $24.25 Estimated AI Cost This Week
 
 🧠 4 AI Sessions, 67 AI Prompts
 
-Sonnet                   78 lines            █████████████████████████   100.00 % 
+Sonnet                   183 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 7.28% of written lines came from AI
@@ -347,7 +347,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 19:11:40 UTC
+ Last Updated on 09/08/2026 19:16:33 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 WakaTime Stats
