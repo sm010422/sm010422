@@ -291,47 +291,46 @@ Sunday                   1171 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 41 mins       ███████████████░░░░░░░░░░   59.11 % 
-Other                    1 hr 32 mins        ████████░░░░░░░░░░░░░░░░░   33.69 % 
-dbout                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Other                    42 mins             ██████████░░░░░░░░░░░░░░░   41.70 % 
+Markdown                 21 mins             █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+YAML                     20 mins             █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+dbout                    15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🔥 Editors: 
-Ghostty                  2 hrs               ███████████░░░░░░░░░░░░░░   44.15 % 
-Claude Code              1 hr 49 mins        ██████████░░░░░░░░░░░░░░░   40.00 % 
-iTerm2                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Neovim                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Claude Code              36 mins             █████████░░░░░░░░░░░░░░░░   35.88 % 
+Ghostty                  30 mins             ████████░░░░░░░░░░░░░░░░░   30.23 % 
+iTerm2                   17 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Neovim                   17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
 
 🐱‍💻 Projects: 
-k3s-msa-infrastructure   3 hrs 36 mins       ████████████████████░░░░░   79.24 % 
-target-tracking-service  39 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Unknown Project          17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+k3s-msa-infrastructure   1 hr 25 mins        █████████████████████░░░░   83.22 % 
+Unknown Project          17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
 
 💻 Operating System: 
-Mac                      4 hrs 33 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 42 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 56 mins (64.53%)
+⏱ AI Coding Time: 42 mins (41.52%)
 
-✍️ 183 lines written by AI, 2,330 lines written by hand (7.28% AI-written)
+✍️ 5 lines written by AI, 2,330 lines written by hand (0.21% AI-written)
 
-🔤 11,621,691 Input Tokens, 100,608 Output Tokens
+🔤 3,045,560 Input Tokens, 29,432 Output Tokens
 
-💵 $24.25 Estimated AI Cost This Week
+💵 $8.36 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 67 AI Prompts
+🧠 2 AI Sessions, 10 AI Prompts
 
-Sonnet                   183 lines           █████████████████████████   100.00 % 
+Sonnet                   5 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 7.28% of written lines came from AI
-📝 Concise Prompter — average 136 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🔍 Hands-On Reviewer — 92.72% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.21% of written lines came from AI
+📝 Concise Prompter — average 205 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 99.79% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -347,7 +346,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 19:41:28 UTC
+ Last Updated on 12/08/2026 19:44:05 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 WakaTime Stats
