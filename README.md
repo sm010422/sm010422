@@ -291,44 +291,40 @@ Sunday                   1171 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    22 mins             █████████░░░░░░░░░░░░░░░░   37.43 % 
-YAML                     20 mins             █████████░░░░░░░░░░░░░░░░   34.43 % 
-dbout                    15 mins             ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
-SQL                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+YAML                     20 mins             █████████████░░░░░░░░░░░░   50.48 % 
+Other                    20 mins             ████████████░░░░░░░░░░░░░   49.52 % 
 
 🔥 Editors: 
-Ghostty                  24 mins             ██████████░░░░░░░░░░░░░░░   39.00 % 
-Claude Code              20 mins             ████████░░░░░░░░░░░░░░░░░   33.15 % 
-Neovim                   17 mins             ███████░░░░░░░░░░░░░░░░░░   27.85 % 
+Ghostty                  21 mins             █████████████░░░░░░░░░░░░   52.42 % 
+Claude Code              19 mins             ████████████░░░░░░░░░░░░░   47.58 % 
 
 🐱‍💻 Projects: 
-k3s-msa-infrastructure   43 mins             ██████████████████░░░░░░░   71.85 % 
-Unknown Project          17 mins             ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+k3s-msa-infrastructure   41 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr                █████████████████████████   100.00 % 
+Mac                      41 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (34.43%)
+⏱ AI Coding Time: 20 mins (50.48%)
 
-✍️ 0 lines written by AI, 2,330 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
 🔤 35,902 Input Tokens, 18,400 Output Tokens
 
-💵 $5.02 Estimated AI Cost This Week
+💵 $1.35 Estimated AI Cost This Week
 
 🧠 1 AI Sessions, 5 AI Prompts
 
-Sonnet                   1 lines             █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
 📝 Concise Prompter — average 85 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -344,7 +340,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 19:40:28 UTC
+ Last Updated on 14/08/2026 19:33:44 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 WakaTime Stats
