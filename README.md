@@ -252,7 +252,7 @@ height="300"
 
 <br>
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs%2031%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -291,38 +291,38 @@ Sunday                   1171 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     20 mins             █████████████░░░░░░░░░░░░   50.48 % 
-Other                    20 mins             ████████████░░░░░░░░░░░░░   49.52 % 
+Other                    48 mins             █████████████████░░░░░░░░   69.64 % 
+YAML                     20 mins             ████████░░░░░░░░░░░░░░░░░   30.36 % 
 
 🔥 Editors: 
-Ghostty                  21 mins             █████████████░░░░░░░░░░░░   52.42 % 
-Claude Code              19 mins             ████████████░░░░░░░░░░░░░   47.58 % 
+Ghostty                  39 mins             ██████████████░░░░░░░░░░░   57.29 % 
+Claude Code              29 mins             ███████████░░░░░░░░░░░░░░   42.71 % 
 
 🐱‍💻 Projects: 
-k3s-msa-infrastructure   41 mins             █████████████████████████   100.00 % 
+k3s-msa-infrastructure   1 hr 9 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      41 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (50.48%)
+⏱ AI Coding Time: 45 mins (65.9%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 35,902 Input Tokens, 18,400 Output Tokens
+🔤 197,830 Input Tokens, 21,262 Output Tokens
 
-💵 $1.35 Estimated AI Cost This Week
+💵 $1.85 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 5 AI Prompts
+🧠 2 AI Sessions, 10 AI Prompts
 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 85 characters per prompt
+📝 Concise Prompter — average 71 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -340,7 +340,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 19:12:06 UTC
+ Last Updated on 18/08/2026 19:12:08 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 WakaTime Stats
