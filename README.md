@@ -291,38 +291,37 @@ Sunday                   1171 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    48 mins             █████████████████░░░░░░░░   69.64 % 
-YAML                     20 mins             ████████░░░░░░░░░░░░░░░░░   30.36 % 
+Other                    44 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Ghostty                  39 mins             ██████████████░░░░░░░░░░░   57.29 % 
-Claude Code              29 mins             ███████████░░░░░░░░░░░░░░   42.71 % 
+Ghostty                  34 mins             ████████████████████░░░░░   78.00 % 
+Claude Code              9 mins              ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
 
 🐱‍💻 Projects: 
-k3s-msa-infrastructure   1 hr 9 mins         █████████████████████████   100.00 % 
+k3s-msa-infrastructure   44 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 9 mins         █████████████████████████   100.00 % 
+Mac                      44 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 mins (65.9%)
+⏱ AI Coding Time: 24 mins (55.47%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 197,830 Input Tokens, 21,262 Output Tokens
+🔤 161,928 Input Tokens, 2,862 Output Tokens
 
-💵 $1.85 Estimated AI Cost This Week
+💵 $0.50 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 10 AI Prompts
+🧠 1 AI Sessions, 5 AI Prompts
 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 71 characters per prompt
+📝 Concise Prompter — average 57 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -340,7 +339,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2026 19:12:08 UTC
+ Last Updated on 19/08/2026 19:08:05 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 WakaTime Stats
