@@ -291,39 +291,22 @@ Sunday                   1171 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr                █████████████████████████   100.00 % 
+Other                    33 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Ghostty                  51 mins             █████████████████████░░░░   83.99 % 
-Claude Code              9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Ghostty                  33 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-k3s-msa-infrastructure   1 hr                █████████████████████████   100.00 % 
+k3s-msa-infrastructure   33 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr                █████████████████████████   100.00 % 
+Mac                      33 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 mins (40.36%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 161,928 Input Tokens, 2,862 Output Tokens
-
-💵 $0.50 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 5 AI Prompts
-
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 57 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -339,7 +322,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 19:01:23 UTC
+ Last Updated on 24/08/2026 19:15:10 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 WakaTime Stats
