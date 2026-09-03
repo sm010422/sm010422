@@ -252,7 +252,7 @@ height="300"
 
 <br>
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-103%20hrs%2057%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -291,48 +291,48 @@ Sunday                   1171 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 13 mins       ████████████████████░░░░░   81.64 % 
-C++                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-Java                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Other                    3 hrs 6 mins        ██████████████████░░░░░░░   73.26 % 
+Markdown                 30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+C++                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Python                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 🔥 Editors: 
-Ghostty                  2 hrs 14 mins       █████████████████████░░░░   82.19 % 
-Neovim                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Claude Code              13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Ghostty                  2 hrs 55 mins       █████████████████░░░░░░░░   68.89 % 
+Claude Code              1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
+Neovim                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 
 🐱‍💻 Projects: 
-k3s-msa-infrastructure   2 hrs 16 mins       █████████████████████░░░░   83.25 % 
-Unknown Project          10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-portfolio                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-programming_language     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-target-tracking-service  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+k3s-msa-infrastructure   2 hrs 56 mins       █████████████████░░░░░░░░   69.57 % 
+portfolio                31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+system_programming       24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Unknown Project          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+programming_language     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 💻 Operating System: 
-Mac                      2 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (12.72%)
+⏱ AI Coding Time: 1 hr 25 mins (33.85%)
 
-✍️ 865 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,315 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 349,737 Input Tokens, 61,643 Output Tokens
+🔤 625,988 Input Tokens, 177,101 Output Tokens
 
-💵 $1.74 Estimated AI Cost This Week
+💵 $5.49 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 6 AI Prompts
+🧠 7 AI Sessions, 22 AI Prompts
 
-Sonnet                   865 lines           █████████████████████████   100.00 % 
+Sonnet                   2,315 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 172 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.57% of changed lines were hand-edited
+📝 Concise Prompter — average 289 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -348,7 +348,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2026 21:17:02 UTC
+ Last Updated on 03/09/2026 21:19:50 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 WakaTime Stats
