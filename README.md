@@ -291,33 +291,33 @@ Sunday                   1171 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 23 mins       ██████████████████░░░░░░░   71.95 % 
-Markdown                 41 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-C++                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-Python                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Other                    4 hrs 38 mins       ███████████████████░░░░░░   77.84 % 
+Markdown                 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+C++                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 🔥 Editors: 
-Ghostty                  2 hrs 57 mins       ████████████████░░░░░░░░░   62.81 % 
-Claude Code              1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-Neovim                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-iTerm2                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Ghostty                  2 hrs 57 mins       ████████████░░░░░░░░░░░░░   49.63 % 
+iTerm2                   1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
+Claude Code              1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Neovim                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
 
 🐱‍💻 Projects: 
-k3s-msa-infrastructure   3 hrs 13 mins       █████████████████░░░░░░░░   68.63 % 
-portfolio                31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-system_programming       24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Unknown Project          21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-programming_language     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+k3s-msa-infrastructure   4 hrs 29 mins       ███████████████████░░░░░░   75.23 % 
+portfolio                31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+system_programming       24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Unknown Project          21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+programming_language     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 💻 Operating System: 
-Mac                      4 hrs 42 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 25 mins (30.44%)
+⏱ AI Coding Time: 1 hr 25 mins (24.04%)
 
 ✍️ 2,315 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -349,7 +349,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 21:01:07 UTC
+ Last Updated on 05/09/2026 20:42:51 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 WakaTime Stats
