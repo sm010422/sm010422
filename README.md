@@ -252,7 +252,7 @@ height="300"
 
 <br>
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-106%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-106%20hrs%2031%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -291,49 +291,49 @@ Sunday                   1171 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    9 hrs 28 mins       ███████████████████░░░░░░   77.53 % 
-Markdown                 1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Python                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-C++                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Other                    10 hrs 5 mins       ███████████████████░░░░░░   77.29 % 
+Markdown                 1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Python                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+C++                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+sshconfig                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🔥 Editors: 
-Ghostty                  6 hrs 30 mins       █████████████░░░░░░░░░░░░   53.28 % 
-iTerm2                   2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
-Claude Code              2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-Neovim                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Ghostty                  7 hrs 7 mins        ██████████████░░░░░░░░░░░   54.59 % 
+iTerm2                   2 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+Claude Code              2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Neovim                   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
 
 🐱‍💻 Projects: 
-k3s-msa-infrastructure   9 hrs 26 mins       ███████████████████░░░░░░   77.30 % 
-portfolio                1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-system_programming       24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-Unknown Project          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-web                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+k3s-msa-infrastructure   10 hrs 1 min        ███████████████████░░░░░░   76.89 % 
+portfolio                1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Unknown Project          30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+system_programming       24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+web                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 💻 Operating System: 
-Mac                      12 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 57 mins (32.41%)
+⏱ AI Coding Time: 3 hrs 59 mins (30.62%)
 
-✍️ 3,504 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,539 lines written by AI, 16 lines written by hand (99.55% AI-written)
 
-🔤 1,194,357 Input Tokens, 338,296 Output Tokens
+🔤 2,022,523 Input Tokens, 348,098 Output Tokens
 
-💵 $19.81 Estimated AI Cost This Week
+💵 $22.77 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 42 AI Prompts
+🧠 10 AI Sessions, 44 AI Prompts
 
-Sonnet                   3,508 lines         █████████████████████████   100.00 % 
+Sonnet                   3,543 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 720 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.14% of changed lines were hand-edited
+🤖 AI-Driven — 99.55% of written lines came from AI
+📄 Detailed Prompter — average 689 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -349,7 +349,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 21:47:42 UTC
+ Last Updated on 08/09/2026 21:24:45 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 WakaTime Stats
