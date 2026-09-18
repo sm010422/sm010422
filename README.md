@@ -291,35 +291,35 @@ Sunday                   1171 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    6 hrs 38 mins       ██████████████████░░░░░░░   70.26 % 
-C                        54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-C++                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Mermaid                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Other                    7 hrs 12 mins       █████████████████░░░░░░░░   67.35 % 
+C                        1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+C++                      1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Mermaid                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 🔥 Editors: 
-Ghostty                  6 hrs 7 mins        ████████████████░░░░░░░░░   64.87 % 
-Claude Code              1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-Neovim                   1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-iTerm2                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Ghostty                  6 hrs 41 mins       ████████████████░░░░░░░░░   62.59 % 
+Neovim                   1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Claude Code              1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+iTerm2                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 🐱‍💻 Projects: 
-lecture                  3 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   40.62 % 
-coding                   2 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
-Unknown Project          1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-k3s-msa-infrastructure   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-adv_computer_eng         28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+lecture                  3 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   35.88 % 
+coding                   2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Unknown Project          1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+k3s-msa-infrastructure   1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+adv_computer_eng         28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 
 💻 Operating System: 
-Mac                      9 hrs 26 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 10 mins (33.54%)
+⏱ AI Coding Time: 3 hrs 10 mins (29.62%)
 
-✍️ 1,235 lines written by AI, 53 lines written by hand (95.89% AI-written)
+✍️ 1,235 lines written by AI, 188 lines written by hand (86.79% AI-written)
 
 🔤 430,091 Input Tokens, 137,045 Output Tokens
 
@@ -330,10 +330,10 @@ Mac                      9 hrs 26 mins       ███████████�
 Sonnet                   1,328 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.89% of written lines came from AI
+🤖 AI-Driven — 86.79% of written lines came from AI
 📝 Concise Prompter — average 91 characters per prompt
 🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 4.6% of changed lines were hand-edited
+🚀 High AI Trust — 15.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -349,7 +349,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026 21:42:36 UTC
+ Last Updated on 18/09/2026 21:14:20 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 WakaTime Stats
