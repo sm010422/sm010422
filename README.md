@@ -291,33 +291,32 @@ Sunday                   1171 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    7 hrs 12 mins       █████████████████░░░░░░░░   67.35 % 
-C                        1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-C++                      1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Mermaid                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Other                    6 hrs 47 mins       █████████████████░░░░░░░░   66.06 % 
+C                        1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+C++                      1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Mermaid                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 🔥 Editors: 
-Ghostty                  6 hrs 41 mins       ████████████████░░░░░░░░░   62.59 % 
-Neovim                   1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Claude Code              1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-iTerm2                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Ghostty                  6 hrs 22 mins       ███████████████░░░░░░░░░░   61.93 % 
+Neovim                   1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Claude Code              1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
 
 🐱‍💻 Projects: 
-lecture                  3 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   35.88 % 
-coding                   2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-Unknown Project          1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-k3s-msa-infrastructure   1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-adv_computer_eng         28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+lecture                  3 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   37.30 % 
+coding                   1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+Unknown Project          1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+k3s-msa-infrastructure   1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+adv_computer_eng         28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 
 💻 Operating System: 
-Mac                      10 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 10 mins (29.62%)
+⏱ AI Coding Time: 3 hrs 10 mins (30.79%)
 
 ✍️ 1,235 lines written by AI, 188 lines written by hand (86.79% AI-written)
 
@@ -349,7 +348,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 21:14:20 UTC
+ Last Updated on 19/09/2026 21:00:20 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 WakaTime Stats
