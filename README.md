@@ -1,9 +1,9 @@
 # 박상민 | SangMin Park
 
-> **방산 임베디드 & 백엔드 엔지니어 — 실시간 전술 시스템부터 분산 서비스까지**
+> **백엔드 엔지니어 — 실시간 시스템부터 분산 서비스까지**
 
-C/Java 기반의 시스템 프로그래밍을 기반으로, RTOS · 전술 통신 프로토콜 · MSA 아키텍처를 직접 설계하고 구현합니다.
-방산 도메인의 핵심 표준(MIL-STD-1553, DO-178C, MISRA-C)을 학습하며 신뢰성 높은 임베디드 소프트웨어 개발 역량을 쌓고 있습니다.
+Java/Spring 기반의 백엔드 시스템과 MSA 아키텍처를 직접 설계하고 구현합니다.
+RTOS · 통신 프로토콜 등 시스템 프로그래밍 영역도 사이드 프로젝트로 학습하며 역량을 넓혀가고 있습니다.
 AI를 개발 라이프사이클 전체의 파트너로 활용하여, 더 많은 고부가가치 문제에 집중합니다.
 
 <div align="center">
@@ -32,28 +32,7 @@ height="300"
 
 ---
 
-## 🛡️ Defense & Embedded Systems
-
-### [sentinel-stack](https://github.com/sm010422/sentinel-stack)
-> **전술 통신 미들웨어 스택 — RTOS · 소켓 통신 · 패킷 분석기 3-Layer 구조**
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white)
-
-방산 임베디드 시스템에서 요구하는 **설계 → 구현 → 검증 → 문서화** 전 과정을 포함한 포트폴리오입니다.
-
-| Layer | 구성 | 적용 표준 |
-|---|---|---|
-| Layer 3 | Packet Analyzer — 실시간 캡처 · 프로토콜 파싱 · 이상 탐지 | Link-16 메시지 포맷 참고 |
-| Layer 2 | Socket Communication — TCP/UDP 이중화 · Pub/Sub · AES 암호화 | MIL-STD-1553 이중화 참고 |
-| Layer 1 | RTOS Scheduler — 선점형 · RMS/EDF · Jitter 측정 | ARINC 653, DO-178C 참고 |
-
-- MISRA-C 2012 코딩 컨벤션 준수, QEMU(ARM) 환경에서 교차 검증
-- clang-tidy 정적 분석 파이프라인 통합
-
-<br>
+## 🚀 Backend & Application Projects
 
 ### C4I System — [Target Tracking Service](https://github.com/sm010422/target-tracking-service) · [Defense API Gateway](https://github.com/sm010422/defense-api-gateway) · [Threat Intel AI Service](https://github.com/sm010422/threat-intel-ai-service)
 > **실시간 전술 객체 추적 + AI 위협 분석 폴리글랏 MSA (맥북 2대 + Multipass VM 3개 K3s 클러스터, GitOps 자동배포)**
@@ -77,22 +56,6 @@ height="300"
 - VMware→Multipass 마이그레이션으로 반복되던 노드 OOM/NotReady 장애를 해소, podAntiAffinity로 워크로드를 노드별로 분산 배치, Tailscale Funnel로 대시보드를 공인 인터넷에 노출
 
 <br>
-
-### [OrbitTracer](https://github.com/sm010422/OrbitTracer)
-> **위성 궤도 추적 & 지상국 패스 예측 시뮬레이터**
-
-![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-- **SGP4/SDP4** 궤도 계산 엔진(C++)과 WPF 실시간 모니터링 GUI(C#)를 연동한 데스크탑 앱
-- TLE 데이터 기반 위성 위치 계산 · AOS/LOS 패스 예측 · Elevation/Azimuth 가시성 분석
-- CelesTrak 공개 데이터 연동, 이상 상태 임계값 알림
-
-<br>
-
----
-
-## 🚀 Backend & Application Projects
 
 ### [Sofly](https://github.com/Nagaja2world/Sofly_Back)
 > **AI 기반 그룹 여행 플래닝 서비스 — 멀티모듈 MSA 백엔드**
@@ -191,6 +154,42 @@ height="300"
 - 물리 메모리를 wired·active·inactive·compressed·free 5구역으로 분류하여 표시
 - 프로세스 클릭 시 `vmmap --wide <PID>` 로 **가상 주소 공간(Stack·Heap·\_\_TEXT·\_\_DATA)** 레이아웃 시각화
 - OS 페이지 관리 메커니즘을 직접 파고든 시스템 레벨 프로젝트
+
+<br>
+
+---
+
+## 🛰️ Embedded & Real-time Systems
+
+### [sentinel-stack](https://github.com/sm010422/sentinel-stack)
+> **전술 통신 미들웨어 스택 — RTOS · 소켓 통신 · 패킷 분석기 3-Layer 구조**
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white)
+
+임베디드 시스템에서 요구하는 **설계 → 구현 → 검증 → 문서화** 전 과정을 포함한 포트폴리오입니다.
+
+| Layer | 구성 | 적용 표준 |
+|---|---|---|
+| Layer 3 | Packet Analyzer — 실시간 캡처 · 프로토콜 파싱 · 이상 탐지 | Link-16 메시지 포맷 참고 |
+| Layer 2 | Socket Communication — TCP/UDP 이중화 · Pub/Sub · AES 암호화 | MIL-STD-1553 이중화 참고 |
+| Layer 1 | RTOS Scheduler — 선점형 · RMS/EDF · Jitter 측정 | ARINC 653, DO-178C 참고 |
+
+- MISRA-C 2012 코딩 컨벤션 준수, QEMU(ARM) 환경에서 교차 검증
+- clang-tidy 정적 분석 파이프라인 통합
+
+
+### [OrbitTracer](https://github.com/sm010422/OrbitTracer)
+> **위성 궤도 추적 & 지상국 패스 예측 시뮬레이터**
+
+![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+- **SGP4/SDP4** 궤도 계산 엔진(C++)과 WPF 실시간 모니터링 GUI(C#)를 연동한 데스크탑 앱
+- TLE 데이터 기반 위성 위치 계산 · AOS/LOS 패스 예측 · Elevation/Azimuth 가시성 분석
+- CelesTrak 공개 데이터 연동, 이상 상태 임계값 알림
 
 <br>
 
