@@ -10,7 +10,7 @@ AI를 개발 라이프사이클 전체의 파트너로 활용하여, 더 많은 
 
   [![wakatime](https://wakatime.com/badge/user/583a8256-10d0-4e1e-b350-cb9e4234e3b3.svg)](https://wakatime.com/@583a8256-10d0-4e1e-b350-cb9e4234e3b3)
   <a href="https://www.linkedin.com/in/%EC%83%81%EB%AF%BC-%EB%B0%95-985026297/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://marmalade-lemming-3ae.notion.site/Study-56a666da01334f43ac9e2b33e6c08886"><img src="https://img.shields.io/badge/Study-Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+  <a href="https://sm010422.notion.site/Study-56a666da01334f43ac9e2b33e6c08886"><img src="https://img.shields.io/badge/Study-Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
 </div>
 
