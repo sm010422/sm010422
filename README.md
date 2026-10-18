@@ -292,33 +292,32 @@ Sunday                   1176 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    5 hrs 13 mins       ██████████████████░░░░░░░   70.51 % 
-Markdown                 1 hr 50 mins        ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
-TeX                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-C++                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Other                    4 hrs 32 mins       █████████████████░░░░░░░░   67.51 % 
+Markdown                 1 hr 50 mins        ███████░░░░░░░░░░░░░░░░░░   27.45 % 
+TeX                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+C++                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-Ghostty                  5 hrs 2 mins        █████████████████░░░░░░░░   67.89 % 
-Claude Code              1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-Neovim                   48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-iTerm2                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Ghostty                  4 hrs 34 mins       █████████████████░░░░░░░░   67.83 % 
+Claude Code              1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+Neovim                   48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
 
 🐱‍💻 Projects: 
-jakes-resume             4 hrs 51 mins       ████████████████░░░░░░░░░   65.41 % 
-snowpeak_game            40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-sm010422                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-portfolio                30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-k3s-msa-infrastructure   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+jakes-resume             4 hrs 10 mins       ███████████████░░░░░░░░░░   61.89 % 
+snowpeak_game            40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+sm010422                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+portfolio                30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+k3s-msa-infrastructure   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 
 💻 Operating System: 
-Mac                      7 hrs 25 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 58 mins (26.63%)
+⏱ AI Coding Time: 1 hr 58 mins (29.34%)
 
 ✍️ 3,625 lines written by AI, 30 lines written by hand (99.18% AI-written)
 
@@ -351,7 +350,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2026 20:55:52 UTC
+ Last Updated on 18/10/2026 21:01:47 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 WakaTime Stats
