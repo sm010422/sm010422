@@ -253,7 +253,7 @@ height="300"
 
 <br>
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-144%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-144%20hrs%2053%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -292,47 +292,47 @@ Sunday                   1176 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    5 hrs 26 mins       ████████████████░░░░░░░░░   63.65 % 
-Markdown                 2 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   29.84 % 
-TeX                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Other                    4 hrs 26 mins       ███████████████░░░░░░░░░░   58.45 % 
+Markdown                 2 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   33.66 % 
+Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+TeX                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-Ghostty                  5 hrs 30 mins       ████████████████░░░░░░░░░   64.29 % 
-Claude Code              2 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
-Neovim                   52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Ghostty                  4 hrs 26 mins       ███████████████░░░░░░░░░░   58.59 % 
+Claude Code              2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.95 % 
+Neovim                   52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
 
 🐱‍💻 Projects: 
-portfolio                2 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   27.97 % 
-jakes-resume             2 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
-k3s-msa-infrastructure   1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
-snowpeak_game            40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-sm010422                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+portfolio                2 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   31.55 % 
+k3s-msa-infrastructure   1 hr 58 mins        ███████░░░░░░░░░░░░░░░░░░   26.08 % 
+jakes-resume             58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+snowpeak_game            40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+sm010422                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
 
 💻 Operating System: 
-Mac                      8 hrs 33 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 21 mins (39.32%)
+⏱ AI Coding Time: 3 hrs 34 mins (47.04%)
 
 ✍️ 10,871 lines written by AI, 149 lines written by hand (98.65% AI-written)
 
-🔤 2,316,598 Input Tokens, 731,454 Output Tokens
+🔤 2,417,971 Input Tokens, 735,045 Output Tokens
 
-💵 $42.08 Estimated AI Cost This Week
+💵 $42.67 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 53 AI Prompts
+🧠 10 AI Sessions, 56 AI Prompts
 
 Opus                     10,871 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 98.65% of written lines came from AI
-📚 Verbose Prompter — average 1,770 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📚 Verbose Prompter — average 1,679 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 1.41% of changed lines were hand-edited
 ```
 
@@ -349,7 +349,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 22:39:03 UTC
+ Last Updated on 20/10/2026 21:52:59 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 WakaTime Stats
