@@ -253,7 +253,7 @@ height="300"
 
 <br>
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-144%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-144%20hrs%2057%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -292,48 +292,48 @@ Sunday                   1176 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 26 mins       ███████████████░░░░░░░░░░   58.45 % 
-Markdown                 2 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   33.66 % 
-Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-TeX                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Other                    3 hrs 48 mins       ███████████████░░░░░░░░░░   61.80 % 
+Markdown                 1 hr 59 mins        ████████░░░░░░░░░░░░░░░░░   32.26 % 
+Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+tmux                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🔥 Editors: 
-Ghostty                  4 hrs 26 mins       ███████████████░░░░░░░░░░   58.59 % 
-Claude Code              2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.95 % 
-Neovim                   52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Ghostty                  4 hrs 2 mins        ████████████████░░░░░░░░░   65.36 % 
+Claude Code              2 hrs               ████████░░░░░░░░░░░░░░░░░   32.48 % 
+Neovim                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🐱‍💻 Projects: 
-portfolio                2 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   31.55 % 
-k3s-msa-infrastructure   1 hr 58 mins        ███████░░░░░░░░░░░░░░░░░░   26.08 % 
-jakes-resume             58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-snowpeak_game            40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-sm010422                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+k3s-msa-infrastructure   2 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   40.58 % 
+portfolio                2 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   37.79 % 
+snowpeak_game            40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+personal-knowledge-graph-19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 💻 Operating System: 
-Mac                      7 hrs 35 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 34 mins (47.04%)
+⏱ AI Coding Time: 3 hrs 2 mins (49.16%)
 
-✍️ 10,871 lines written by AI, 149 lines written by hand (98.65% AI-written)
+✍️ 10,174 lines written by AI, 139 lines written by hand (98.65% AI-written)
 
-🔤 2,417,971 Input Tokens, 735,045 Output Tokens
+🔤 2,356,240 Input Tokens, 678,864 Output Tokens
 
-💵 $42.67 Estimated AI Cost This Week
+💵 $39.87 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 56 AI Prompts
+🧠 10 AI Sessions, 50 AI Prompts
 
-Opus                     10,871 lines        █████████████████████████   100.00 % 
+Opus                     10,174 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 98.65% of written lines came from AI
-📚 Verbose Prompter — average 1,679 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 1.41% of changed lines were hand-edited
+📚 Verbose Prompter — average 1,860 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.35% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -349,7 +349,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 21:52:59 UTC
+ Last Updated on 21/10/2026 21:59:53 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 WakaTime Stats
