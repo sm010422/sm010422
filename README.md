@@ -253,11 +253,11 @@ height="300"
 
 <br>
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-146%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-147%20hrs%2013%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 271.4 kB Used in GitHub's Storage 
+> 📦 271.5 kB Used in GitHub's Storage 
  > 
 > 🏆 1,803 Contributions in the Year 2026
  > 
@@ -292,49 +292,49 @@ Sunday                   1176 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    6 hrs 14 mins       ██████████████████░░░░░░░   73.91 % 
-Markdown                 1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-Zig                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-Python                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-tmux                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Other                    6 hrs 59 mins       ██████████████████░░░░░░░   72.24 % 
+Markdown                 1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Zig                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Python                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 🔥 Editors: 
-Ghostty                  5 hrs 39 mins       █████████████████░░░░░░░░   67.07 % 
-Claude Code              2 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
-iTerm2                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Neovim                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Ghostty                  6 hrs 8 mins        ████████████████░░░░░░░░░   63.44 % 
+Claude Code              2 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.63 % 
+iTerm2                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Neovim                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 
 🐱‍💻 Projects: 
-k3s-msa-infrastructure   4 hrs 48 mins       ██████████████░░░░░░░░░░░   56.91 % 
-portfolio                1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-ghostty                  56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-personal-knowledge-graph-21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-Unknown Project          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+k3s-msa-infrastructure   5 hrs 16 mins       ██████████████░░░░░░░░░░░   54.57 % 
+portfolio                1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+ghostty                  56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+job                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+personal-knowledge-graph-21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 💻 Operating System: 
-Mac                      8 hrs 26 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 7 mins (37.05%)
+⏱ AI Coding Time: 3 hrs 57 mins (40.97%)
 
-✍️ 8,561 lines written by AI, 141 lines written by hand (98.38% AI-written)
+✍️ 8,567 lines written by AI, 146 lines written by hand (98.32% AI-written)
 
-🔤 2,212,497 Input Tokens, 496,501 Output Tokens
+🔤 2,348,493 Input Tokens, 549,095 Output Tokens
 
-💵 $32.17 Estimated AI Cost This Week
+💵 $34.94 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 50 AI Prompts
+🧠 10 AI Sessions, 65 AI Prompts
 
-Opus                     8,561 lines         █████████████████████████   100.00 % 
+Opus                     8,569 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.38% of written lines came from AI
-📄 Detailed Prompter — average 1,059 characters per prompt
+🤖 AI-Driven — 98.32% of written lines came from AI
+📄 Detailed Prompter — average 836 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 1.63% of changed lines were hand-edited
+🚀 High AI Trust — 1.69% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -350,7 +350,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 21:10:49 UTC
+ Last Updated on 25/10/2026 21:12:12 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 WakaTime Stats
