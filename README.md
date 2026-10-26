@@ -292,49 +292,49 @@ Sunday                   1176 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    6 hrs 59 mins       ██████████████████░░░░░░░   72.24 % 
-Markdown                 1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-Zig                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-Python                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Other                    4 hrs 48 mins       ██████████████████░░░░░░░   73.03 % 
+Markdown                 48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Bash                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Zig                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🔥 Editors: 
-Ghostty                  6 hrs 8 mins        ████████████████░░░░░░░░░   63.44 % 
-Claude Code              2 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.63 % 
-iTerm2                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-Neovim                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Ghostty                  3 hrs 56 mins       ███████████████░░░░░░░░░░   59.73 % 
+Claude Code              1 hr 54 mins        ███████░░░░░░░░░░░░░░░░░░   28.88 % 
+iTerm2                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Neovim                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 
 🐱‍💻 Projects: 
-k3s-msa-infrastructure   5 hrs 16 mins       ██████████████░░░░░░░░░░░   54.57 % 
-portfolio                1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-ghostty                  56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-job                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-personal-knowledge-graph-21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+k3s-msa-infrastructure   4 hrs 28 mins       █████████████████░░░░░░░░   67.94 % 
+ghostty                  56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+job                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+beanba                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Unknown Project          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 💻 Operating System: 
-Mac                      9 hrs 40 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 57 mins (40.97%)
+⏱ AI Coding Time: 2 hrs 32 mins (38.52%)
 
-✍️ 8,567 lines written by AI, 146 lines written by hand (98.32% AI-written)
+✍️ 1,321 lines written by AI, 7 lines written by hand (99.47% AI-written)
 
-🔤 2,348,493 Input Tokens, 549,095 Output Tokens
+🔤 1,588,243 Input Tokens, 210,519 Output Tokens
 
-💵 $34.94 Estimated AI Cost This Week
+💵 $15.47 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 65 AI Prompts
+🧠 8 AI Sessions, 46 AI Prompts
 
-Opus                     8,569 lines         █████████████████████████   100.00 % 
+Opus                     1,323 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.32% of written lines came from AI
-📄 Detailed Prompter — average 836 characters per prompt
+🤖 AI-Driven — 99.47% of written lines came from AI
+📝 Concise Prompter — average 409 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 1.69% of changed lines were hand-edited
+🚀 High AI Trust — 0.6% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -350,7 +350,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 21:12:12 UTC
+ Last Updated on 26/10/2026 22:55:04 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 WakaTime Stats
