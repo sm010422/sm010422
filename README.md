@@ -253,13 +253,13 @@ height="300"
 
 <br>
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-155%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-159%20hrs%2042%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 275.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,850 Contributions in the Year 2026
+> 🏆 1,851 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -267,6 +267,75 @@ height="300"
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1225 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+🌆 Daytime                5621 commits        █████████░░░░░░░░░░░░░░░░   37.38 % 
+🌃 Evening                4682 commits        ████████░░░░░░░░░░░░░░░░░   31.14 % 
+🌙 Night                  3509 commits        ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   1920 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Tuesday                  2310 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Wednesday                2495 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+Thursday                 2001 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Friday                   3146 commits        █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
+Saturday                 1989 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Sunday                   1176 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    10 hrs 11 mins      ████████████████░░░░░░░░░   65.33 % 
+Markdown                 1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Python                   1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+
+🔥 Editors: 
+Ghostty                  9 hrs 37 mins       ███████████████░░░░░░░░░░   61.64 % 
+Claude Code              4 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   31.31 % 
+Neovim                   1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+
+🐱‍💻 Projects: 
+personal-knowledge-graph-6 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   41.69 % 
+portfolio                2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+terminal_backup          2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Unknown Project          57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+k3s-msa-infrastructure   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+
+💻 Operating System: 
+Mac                      15 hrs 36 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 7 hrs 38 mins (48.96%)
+
+✍️ 2,588 lines written by AI, 46 lines written by hand (98.25% AI-written)
+
+🔤 2,715,321 Input Tokens, 593,905 Output Tokens
+
+💵 $37.37 Estimated AI Cost This Week
+
+🧠 23 AI Sessions, 160 AI Prompts
+
+Opus                     2,690 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.25% of written lines came from AI
+📝 Concise Prompter — average 464 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 2.07% of changed lines were hand-edited
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -280,7 +349,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2026 23:40:36 UTC
+ Last Updated on 04/11/2026 23:57:12 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 WakaTime Stats
