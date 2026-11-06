@@ -1,9 +1,10 @@
-# 박상민 | SangMin Park
+# Hi, I'm SangMin Park 👋
 
-> **백엔드 엔지니어 — Java/Spring 기반 분산 서비스를 설계하고 배포까지 직접 운영합니다**
+> **Backend Engineer** — I design distributed services on Java/Spring and own them all the way through deployment and operations.
 
-Kafka 이벤트 파이프라인, MSA, K3s + GitOps 배포까지 백엔드 시스템을 처음부터 끝까지 만들어 봅니다.
-동시성 · 실시간 처리 같은 까다로운 문제를 좋아하고, AI를 개발 라이프사이클 전체의 파트너로 활용합니다.
+- 🔧 I build systems **end-to-end** — from Kafka event pipelines and MSA to K3s + GitOps deployment
+- ⚡ I enjoy the tricky parts: concurrency, race conditions, and real-time processing
+- 🤖 I work with AI as a pair across the whole development lifecycle
 
 <div align="center">
 
@@ -19,43 +20,43 @@ Kafka 이벤트 파이프라인, MSA, K3s + GitOps 배포까지 백엔드 시스
 ## 🚀 Featured Projects
 
 ### C4I System — [Target Tracking](https://github.com/sm010422/target-tracking-service) · [API Gateway](https://github.com/sm010422/defense-api-gateway) · [Threat Intel AI](https://github.com/sm010422/threat-intel-ai-service)
-> **실시간 객체 추적 + AI 위협 분석 폴리글랏 MSA — 맥북 2대 + VM 3개 K3s 클러스터, GitOps 자동 배포**
+> **Real-time object tracking + AI threat analysis, polyglot MSA on a self-built K3s cluster**
 
 `Java 21` `Spring Boot` `Kafka` `Python` `FastAPI` `K3s` `ArgoCD` `WebSocket`
 
-- 드론 시뮬레이터 + 실제 공개 ADS-B 피드(adsb.fi)를 **Kafka → WebSocket** 파이프라인으로 실시간 대시보드에 전송
-- 성격이 다른 AI 서비스 2개(pgvector + Gemini RAG / LangGraph + Qdrant)가 **같은 토픽을 독립 consumer group으로** 구독
-- GitHub Actions → Docker Hub → **ArgoCD Image Updater write-back**으로 클러스터 반영까지 무개입 배포를 실측 검증
-- VMware → Multipass 마이그레이션으로 반복되던 노드 OOM/NotReady 장애 해소
+- Streams a drone simulator and a live ADS-B feed (adsb.fi) to a real-time dashboard through a **Kafka → WebSocket** pipeline
+- Two AI services with different approaches (pgvector + Gemini RAG / LangGraph + Qdrant) consume **the same topic as independent consumer groups**
+- Verified zero-touch deployment end to end: GitHub Actions → Docker Hub → **ArgoCD Image Updater write-back**
+- Migrated from VMware to Multipass to fix recurring node OOM / NotReady failures
 
 ### [Sofly](https://github.com/Nagaja2world/Sofly_Back)
-> **AI 기반 그룹 여행 플래닝 서비스 — Gradle 멀티모듈 MSA 백엔드**
+> **AI-powered group travel planner — Gradle multi-module MSA backend**
 
 `Java 21` `Spring Boot 3` `Spring AI` `Kafka` `PostgreSQL` `Redis` `Grafana`
 
-- 레이어드(`travel-core`) + 헥사고날(`travel-supply`) 두 서비스를 독립 배포하는 모노레포
-- Gemini 2.5 Flash(Spring AI) + Redis 대화 메모리로 3단계 여행 추천, Kafka로 항공편 저장 → 정복 지도 자동 갱신
-- Prometheus · Grafana · Zipkin 관측성, Nginx Blue-Green 무중단 배포
+- Monorepo with two independently deployed services: layered (`travel-core`) and hexagonal (`travel-supply`)
+- Three-step trip recommendations with Gemini 2.5 Flash (Spring AI) and Redis-backed conversation memory; saving a flight updates the user's travel map via Kafka
+- Observability with Prometheus · Grafana · Zipkin; zero-downtime Nginx blue-green deployment
 
 ### [Snowpeak Game](https://github.com/sm010422/snowpeak_game)
-> **실시간 협동 카페 운영 시뮬레이션 — Race Condition & 동시성 제어**
+> **Real-time co-op café tycoon — solving race conditions in multiplayer state**
 
 `Java 17` `Spring Boot 3` `WebSocket(STOMP)` `Redis`
 
-- 두 플레이어가 같은 주문을 동시에 집는 Race Condition을 **Redis Lua Script**로 원천 차단
-- Redis List 기반 Producer-Consumer 주문 대기열, SETNX로 테이블 중복 배정 방지, Pub/Sub 상태 전파
+- Eliminated the race condition where two players grab the same order at once, using an atomic **Redis Lua script**
+- Producer-consumer order queue on Redis Lists, SETNX to prevent double-assigning tables, Pub/Sub to broadcast state changes
 
 <details>
 <summary><b>📁 More Projects</b></summary>
 
 <br>
 
-| Project | 한 줄 소개 | Key |
+| Project | Description | Key |
 |---|---|---|
-| [Connecteamed](https://github.com/Connecteamed/Connecteamed-BE) | 팀 프로젝트 시작부터 회고까지 관리하는 협업 플랫폼 (UMC 9기) | QueryDSL · JWT/OAuth2 · AWS Lightsail |
-| [SikjajaeDeal](https://github.com/sikjajaeDeal) | 위치 기반 B2B 식자재 거래 & 검색 플랫폼 | Elasticsearch · KakaoMap API |
-| [LikeLion-RealTalk](https://github.com/LikeLion-RealTalk) | Claude AI 팩트체크 기반 실시간 토론 플랫폼 | WebSocket Pub/Sub · Redis |
-| [memory-viz](https://github.com/sm010422/memory-viz) | macOS 물리/가상 메모리 구조 실시간 시각화 | Python · vm_stat · vmmap |
+| [Connecteamed](https://github.com/Connecteamed/Connecteamed-BE) | Team collaboration platform covering a project from kickoff to retrospective (UMC 9th) | QueryDSL · JWT/OAuth2 · AWS Lightsail |
+| [SikjajaeDeal](https://github.com/sikjajaeDeal) | Location-based B2B marketplace and search platform for food ingredients | Elasticsearch · KakaoMap API |
+| [LikeLion-RealTalk](https://github.com/LikeLion-RealTalk) | Real-time debate platform with Claude AI fact-checking | WebSocket Pub/Sub · Redis |
+| [memory-viz](https://github.com/sm010422/memory-viz) | Real-time visualizer for macOS physical and virtual memory layout | Python · vm_stat · vmmap |
 
 </details>
 
@@ -69,7 +70,7 @@ Kafka 이벤트 파이프라인, MSA, K3s + GitOps 배포까지 백엔드 시스
 
 **Tools** &nbsp; <img src="https://skillicons.dev/icons?i=py,git,neovim,idea,notion,postman" height="32" />
 
-**Dev Environment** — Ghostty · Zsh · tmux · [Neovim(LazyVim)](https://github.com/sm010422/nvim) · Hammerspoon, 전부 [dotfiles](https://github.com/sm010422/terminal_backup)로 형상 관리
+**Dev Environment** — Ghostty · Zsh · tmux · [Neovim(LazyVim)](https://github.com/sm010422/nvim) · Hammerspoon, all version-controlled in my [dotfiles](https://github.com/sm010422/terminal_backup)
 
 ---
 
@@ -80,11 +81,11 @@ Kafka 이벤트 파이프라인, MSA, K3s + GitOps 배포까지 백엔드 시스
 </div>
 
 <details>
-<summary><b>⏱ WakaTime 상세 지표 (매일 자동 갱신)</b></summary>
+<summary><b>⏱ WakaTime Metrics (auto-updated daily)</b></summary>
 
 <br>
 
-> 💡 **Other** 는 WakaTime이 집계한 터미널 사용 시간(tmux, zsh 등)입니다.
+> 💡 **Other** is terminal time tracked by WakaTime (tmux, zsh, etc.)
 
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-159%20hrs%2042%20mins-blue?style=flat)
