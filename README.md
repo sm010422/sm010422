@@ -88,17 +88,17 @@
 > 💡 **Other** is terminal time tracked by WakaTime (tmux, zsh, etc.)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-160%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-167%20hrs%2027%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 275.7 kB Used in GitHub's Storage 
+> 📦 275.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,863 Contributions in the Year 2026
+> 🏆 1,873 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 34 Public Repositories 
+> 📜 35 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
@@ -106,20 +106,20 @@
 
 ```text
 🌞 Morning                1225 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-🌆 Daytime                5631 commits        █████████░░░░░░░░░░░░░░░░   37.42 % 
-🌃 Evening                4682 commits        ████████░░░░░░░░░░░░░░░░░   31.11 % 
-🌙 Night                  3511 commits        ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+🌆 Daytime                5631 commits        █████████░░░░░░░░░░░░░░░░   37.40 % 
+🌃 Evening                4688 commits        ████████░░░░░░░░░░░░░░░░░   31.14 % 
+🌙 Night                  3513 commits        ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1920 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Tuesday                  2310 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Wednesday                2495 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Thursday                 2004 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Friday                   3155 commits        █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
-Saturday                 1989 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Sunday                   1176 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Monday                   1920 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Tuesday                  2310 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Wednesday                2495 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Thursday                 2004 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Friday                   3155 commits        █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
+Saturday                 1995 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Sunday                   1178 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 ```
 
 
@@ -127,48 +127,49 @@ Sunday                   1176 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    11 hrs 48 mins      █████████████████░░░░░░░░   67.65 % 
-Markdown                 2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Python                   1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-conf                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Other                    15 hrs 24 mins      ████████████████░░░░░░░░░   63.08 % 
+Markdown                 5 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+Python                   1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Bash                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+tmux                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 🔥 Editors: 
-Ghostty                  10 hrs 5 mins       ██████████████░░░░░░░░░░░   57.77 % 
-Claude Code              6 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   38.06 % 
-Neovim                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Ghostty                  13 hrs 43 mins      ██████████████░░░░░░░░░░░   56.14 % 
+Claude Code              9 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   40.68 % 
+Neovim                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-portfolio                6 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   39.92 % 
-terminal_backup          2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-personal-knowledge-graph-2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-toss                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-ghostty                  1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+portfolio                8 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   35.11 % 
+sm010422                 4 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+terminal_backup          3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+ghostty                  2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+personal-knowledge-graph-1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
 
 💻 Operating System: 
-Mac                      17 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 54 mins (56.71%)
+⏱ AI Coding Time: 15 hrs 1 min (61.52%)
 
-✍️ 4,702 lines written by AI, 27 lines written by hand (99.43% AI-written)
+✍️ 4,693 lines written by AI, 209 lines written by hand (95.74% AI-written)
 
-🔤 4,183,605 Input Tokens, 994,714 Output Tokens
+🔤 4,868,838 Input Tokens, 1,192,092 Output Tokens
 
-💵 $68.38 Estimated AI Cost This Week
+💵 $82.89 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 182 AI Prompts
+🧠 31 AI Sessions, 282 AI Prompts
 
-Opus                     4,812 lines         █████████████████████████   100.00 % 
+Opus                     4,803 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.43% of written lines came from AI
-📄 Detailed Prompter — average 680 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.89% of changed lines were hand-edited
+🤖 AI-Driven — 95.74% of written lines came from AI
+📄 Detailed Prompter — average 579 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 4.47% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -184,7 +185,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/11/2026 18:40:27 UTC
+ Last Updated on 07/11/2026 22:17:58 UTC
 <!--END_SECTION:waka-->
 
 </details>
