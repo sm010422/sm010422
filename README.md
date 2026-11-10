@@ -127,50 +127,50 @@ Sunday                   1178 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    16 hrs 47 mins      ███████████████░░░░░░░░░░   60.38 % 
-Markdown                 7 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-Python                   1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-Bash                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Swift                    25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Other                    16 hrs 16 mins      ████████████████░░░░░░░░░   64.19 % 
+Markdown                 6 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+Bash                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Python                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Swift                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 🔥 Editors: 
-Ghostty                  15 hrs 34 mins      ██████████████░░░░░░░░░░░   55.96 % 
-Claude Code              11 hrs 12 mins      ██████████░░░░░░░░░░░░░░░   40.28 % 
-Neovim                   57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-iTerm2                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Ghostty                  14 hrs 50 mins      ███████████████░░░░░░░░░░   58.52 % 
+Claude Code              9 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   38.06 % 
+Neovim                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+iTerm2                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-portfolio                8 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   30.83 % 
-ghostty                  4 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-sm010422                 4 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-terminal_backup          3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-personal-knowledge-graph-1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+portfolio                7 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   30.54 % 
+ghostty                  5 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+sm010422                 4 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+terminal_backup          3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+toss                     1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
 
 💻 Operating System: 
-Mac                      27 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 3 mins (61.33%)
+⏱ AI Coding Time: 14 hrs 38 mins (57.74%)
 
-✍️ 5,020 lines written by AI, 234 lines written by hand (95.55% AI-written)
+✍️ 3,966 lines written by AI, 233 lines written by hand (94.45% AI-written)
 
-🔤 5,347,016 Input Tokens, 1,314,879 Output Tokens
+🔤 4,434,813 Input Tokens, 1,099,436 Output Tokens
 
-💵 $92.19 Estimated AI Cost This Week
+💵 $78.51 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 331 AI Prompts
+🧠 28 AI Sessions, 287 AI Prompts
 
-Opus                     5,130 lines         █████████████████████████   100.00 % 
+Opus                     4,076 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.55% of written lines came from AI
-📄 Detailed Prompter — average 562 characters per prompt
+🤖 AI-Driven — 94.45% of written lines came from AI
+📄 Detailed Prompter — average 517 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 4.65% of changed lines were hand-edited
+🚀 High AI Trust — 5.76% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -186,7 +186,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/11/2026 22:26:39 UTC
+ Last Updated on 10/11/2026 01:48:48 UTC
 <!--END_SECTION:waka-->
 
 </details>
