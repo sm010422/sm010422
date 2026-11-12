@@ -88,7 +88,7 @@
 > 💡 **Other** is terminal time tracked by WakaTime (tmux, zsh, etc.)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-169%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-170%20hrs%2053%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -127,50 +127,50 @@ Sunday                   1178 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    12 hrs 17 mins      ████████████████░░░░░░░░░   65.47 % 
-Markdown                 4 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   26.43 % 
-Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-Swift                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-tmux                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Other                    11 hrs 21 mins      ████████████████░░░░░░░░░   64.87 % 
+Markdown                 4 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   26.44 % 
+Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Swift                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+tmux                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 🔥 Editors: 
-Ghostty                  12 hrs 4 mins       ████████████████░░░░░░░░░   64.27 % 
-Claude Code              6 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   33.47 % 
-Neovim                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-iTerm2                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Ghostty                  10 hrs 44 mins      ███████████████░░░░░░░░░░   61.29 % 
+Claude Code              6 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   36.27 % 
+Neovim                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+iTerm2                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-ghostty                  5 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   28.84 % 
-sm010422                 4 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-portfolio                3 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
-terminal_backup          3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-personal-knowledge-graph-27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+ghostty                  6 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   35.43 % 
+sm010422                 4 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+terminal_backup          3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+portfolio                1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+ghostty-contrib          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 💻 Operating System: 
-Mac                      18 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 3 mins (53.53%)
+⏱ AI Coding Time: 10 hrs 16 mins (58.67%)
 
-✍️ 1,073 lines written by AI, 207 lines written by hand (83.83% AI-written)
+✍️ 820 lines written by AI, 207 lines written by hand (79.84% AI-written)
 
-🔤 2,180,359 Input Tokens, 549,879 Output Tokens
+🔤 1,925,146 Input Tokens, 500,019 Output Tokens
 
-💵 $41.74 Estimated AI Cost This Week
+💵 $38.69 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 211 AI Prompts
+🧠 21 AI Sessions, 220 AI Prompts
 
-Opus                     1,073 lines         █████████████████████████   100.00 % 
+Opus                     820 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.83% of written lines came from AI
-📝 Concise Prompter — average 488 characters per prompt
+🤖 AI-Driven — 79.84% of written lines came from AI
+📝 Concise Prompter — average 307 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 16.17% of changed lines were hand-edited
+🚀 High AI Trust — 20.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -186,7 +186,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/11/2026 01:01:34 UTC
+ Last Updated on 12/11/2026 23:52:25 UTC
 <!--END_SECTION:waka-->
 
 </details>
