@@ -127,50 +127,50 @@ Sunday                   1178 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    11 hrs 21 mins      ████████████████░░░░░░░░░   64.87 % 
-Markdown                 4 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   26.44 % 
-Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-Swift                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-tmux                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Other                    7 hrs 25 mins       ███████████████░░░░░░░░░░   61.08 % 
+Markdown                 3 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   31.07 % 
+Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Swift                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+tmux                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 🔥 Editors: 
-Ghostty                  10 hrs 44 mins      ███████████████░░░░░░░░░░   61.29 % 
-Claude Code              6 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   36.27 % 
-Neovim                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-iTerm2                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Ghostty                  7 hrs 21 mins       ███████████████░░░░░░░░░░   60.58 % 
+Claude Code              4 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   36.41 % 
+Neovim                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+iTerm2                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-ghostty                  6 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   35.43 % 
-sm010422                 4 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
-terminal_backup          3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-portfolio                1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-ghostty-contrib          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+ghostty                  6 hrs 18 mins       █████████████░░░░░░░░░░░░   51.93 % 
+terminal_backup          2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+sm010422                 1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+ime-notes                21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+ghostty-contrib          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 💻 Operating System: 
-Mac                      17 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 16 mins (58.67%)
+⏱ AI Coding Time: 6 hrs 55 mins (56.96%)
 
-✍️ 820 lines written by AI, 207 lines written by hand (79.84% AI-written)
+✍️ 711 lines written by AI, 193 lines written by hand (78.65% AI-written)
 
-🔤 1,925,146 Input Tokens, 500,019 Output Tokens
+🔤 1,396,376 Input Tokens, 348,616 Output Tokens
 
-💵 $38.69 Estimated AI Cost This Week
+💵 $30.74 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 220 AI Prompts
+🧠 11 AI Sessions, 151 AI Prompts
 
-Opus                     820 lines           █████████████████████████   100.00 % 
+Opus                     711 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 79.84% of written lines came from AI
-📝 Concise Prompter — average 307 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 20.16% of changed lines were hand-edited
+🤖 AI-Driven — 78.65% of written lines came from AI
+📝 Concise Prompter — average 390 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 21.35% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -186,7 +186,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/11/2026 23:52:25 UTC
+ Last Updated on 13/11/2026 23:52:24 UTC
 <!--END_SECTION:waka-->
 
 </details>
