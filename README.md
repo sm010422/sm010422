@@ -88,13 +88,13 @@
 > 💡 **Other** is terminal time tracked by WakaTime (tmux, zsh, etc.)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-171%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%2054%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 275.8 kB Used in GitHub's Storage 
+> 📦 275.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,873 Contributions in the Year 2026
+> 🏆 1,874 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -107,7 +107,7 @@
 ```text
 🌞 Morning                1225 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
 🌆 Daytime                5631 commits        █████████░░░░░░░░░░░░░░░░   37.40 % 
-🌃 Evening                4688 commits        ████████░░░░░░░░░░░░░░░░░   31.14 % 
+🌃 Evening                4689 commits        ████████░░░░░░░░░░░░░░░░░   31.14 % 
 🌙 Night                  3513 commits        ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
 ```
 📅 **I'm Most Productive on Friday** 
@@ -119,7 +119,7 @@ Wednesday                2495 commits        ████░░░░░░░�
 Thursday                 2004 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
 Friday                   3155 commits        █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
 Saturday                 1995 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Sunday                   1178 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Sunday                   1179 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
 ```
 
 
@@ -127,48 +127,47 @@ Sunday                   1178 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    5 hrs 8 mins        █████████████████░░░░░░░░   69.33 % 
-Markdown                 1 hr 58 mins        ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Swift                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Other                    6 hrs 14 mins       ███████████████████░░░░░░   75.19 % 
+Markdown                 1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
+Python                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-Ghostty                  4 hrs 48 mins       ████████████████░░░░░░░░░   64.89 % 
-Claude Code              2 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   31.44 % 
-Neovim                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-iTerm2                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Ghostty                  5 hrs 33 mins       █████████████████░░░░░░░░   66.92 % 
+Claude Code              2 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   33.05 % 
 DockerDesktop            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-ghostty                  5 hrs 37 mins       ███████████████████░░░░░░   75.96 % 
-terminal_backup          34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-portfolio                21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-ime-notes                18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+ghostty                  6 hrs 36 mins       ████████████████████░░░░░   79.53 % 
+ime-notes                35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+portfolio                25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+portfolio-template       7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+jakes-resume             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 💻 Operating System: 
-Mac                      7 hrs 24 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 36 mins (48.72%)
+⏱ AI Coding Time: 4 hrs 24 mins (53.06%)
 
-✍️ 617 lines written by AI, 25 lines written by hand (96.11% AI-written)
+✍️ 1,211 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,032,604 Input Tokens, 221,124 Output Tokens
+🔤 1,317,611 Input Tokens, 268,145 Output Tokens
 
-💵 $20.86 Estimated AI Cost This Week
+💵 $26.46 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 82 AI Prompts
+🧠 10 AI Sessions, 81 AI Prompts
 
-Opus                     617 lines           █████████████████████████   100.00 % 
+Opus                     1,211 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.11% of written lines came from AI
-📝 Concise Prompter — average 357 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 3.89% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 726 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -184,7 +183,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2026 22:45:18 UTC
+ Last Updated on 15/11/2026 23:08:34 UTC
 <!--END_SECTION:waka-->
 
 </details>
