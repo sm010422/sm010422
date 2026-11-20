@@ -127,50 +127,50 @@ Sunday                   1179 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    14 hrs 52 mins      █████████████████░░░░░░░░   67.30 % 
-Markdown                 3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-C++                      1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-Zig                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-YAML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Other                    13 hrs 41 mins      ████████████████░░░░░░░░░   66.00 % 
+Markdown                 3 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+C++                      1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Zig                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+YAML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 🔥 Editors: 
-Ghostty                  12 hrs 35 mins      ██████████████░░░░░░░░░░░   56.93 % 
-Claude Code              7 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   33.48 % 
-Neovim                   2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Ghostty                  12 hrs              ██████████████░░░░░░░░░░░   57.83 % 
+Claude Code              6 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.98 % 
+Neovim                   2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 iTerm2                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-ghostty                  12 hrs 27 mins      ██████████████░░░░░░░░░░░   56.34 % 
-ghostty-contrib          2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Unknown Project          2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-ime-notes                1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-bunpuri                  1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+ghostty                  11 hrs 32 mins      ██████████████░░░░░░░░░░░   55.65 % 
+ghostty-contrib          2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Unknown Project          2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+ime-notes                1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+bunpuri                  1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
 
 💻 Operating System: 
-Mac                      22 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      20 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 11 mins (50.63%)
+⏱ AI Coding Time: 10 hrs 3 mins (48.49%)
 
-✍️ 6,485 lines written by AI, 475 lines written by hand (93.18% AI-written)
+✍️ 6,421 lines written by AI, 475 lines written by hand (93.11% AI-written)
 
-🔤 2,978,787 Input Tokens, 761,285 Output Tokens
+🔤 2,655,540 Input Tokens, 707,818 Output Tokens
 
-💵 $61.81 Estimated AI Cost This Week
+💵 $57.88 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 189 AI Prompts
+🧠 16 AI Sessions, 163 AI Prompts
 
-Opus                     6,591 lines         █████████████████████████   100.00 % 
+Opus                     6,527 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.18% of written lines came from AI
-📄 Detailed Prompter — average 588 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 7.23% of changed lines were hand-edited
+🤖 AI-Driven — 93.11% of written lines came from AI
+📄 Detailed Prompter — average 672 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 7.3% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -186,7 +186,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/11/2026 00:44:19 UTC
+ Last Updated on 20/11/2026 00:53:47 UTC
 <!--END_SECTION:waka-->
 
 </details>
