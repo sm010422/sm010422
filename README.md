@@ -88,25 +88,25 @@
 > 💡 **Other** is terminal time tracked by WakaTime (tmux, zsh, etc.)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-180%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-182%20hrs%2033%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 275.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,895 Contributions in the Year 2026
+> 🏆 1,897 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 36 Public Repositories 
  > 
-> 🔑 3 Private Repositories 
+> 🔑 4 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                1226 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-🌆 Daytime                5639 commits        █████████░░░░░░░░░░░░░░░░   37.41 % 
+🌆 Daytime                5640 commits        █████████░░░░░░░░░░░░░░░░   37.41 % 
 🌃 Evening                4697 commits        ████████░░░░░░░░░░░░░░░░░   31.16 % 
 🌙 Night                  3513 commits        ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
 ```
@@ -117,7 +117,7 @@ Monday                   1936 commits        ███░░░░░░░░�
 Tuesday                  2310 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
 Wednesday                2496 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
 Thursday                 2004 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Friday                   3155 commits        █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+Friday                   3156 commits        █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
 Saturday                 1995 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
 Sunday                   1179 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 ```
@@ -127,66 +127,66 @@ Sunday                   1179 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    13 hrs 41 mins      ████████████████░░░░░░░░░   66.00 % 
-Markdown                 3 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-C++                      1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Zig                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-YAML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Other                    15 hrs 14 mins      ████████████████░░░░░░░░░   62.92 % 
+Markdown                 5 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+C++                      1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Zig                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+YAML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 🔥 Editors: 
-Ghostty                  12 hrs              ██████████████░░░░░░░░░░░   57.83 % 
-Claude Code              6 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.98 % 
-Neovim                   2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Ghostty                  13 hrs 46 mins      ██████████████░░░░░░░░░░░   56.89 % 
+Claude Code              7 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   32.05 % 
+Neovim                   2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 iTerm2                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-ghostty                  11 hrs 32 mins      ██████████████░░░░░░░░░░░   55.65 % 
-ghostty-contrib          2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Unknown Project          2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-ime-notes                1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-bunpuri                  1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+ghostty                  11 hrs 26 mins      ████████████░░░░░░░░░░░░░   47.26 % 
+ghostty-contrib          4 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Unknown Project          2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+frontend-platform-assignm1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+ime-notes                1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
 
 💻 Operating System: 
-Mac                      20 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 3 mins (48.49%)
+⏱ AI Coding Time: 11 hrs 39 mins (48.15%)
 
-✍️ 6,421 lines written by AI, 475 lines written by hand (93.11% AI-written)
+✍️ 9,944 lines written by AI, 488 lines written by hand (95.32% AI-written)
 
-🔤 2,655,540 Input Tokens, 707,818 Output Tokens
+🔤 3,029,136 Input Tokens, 911,556 Output Tokens
 
-💵 $57.88 Estimated AI Cost This Week
+💵 $68.18 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 163 AI Prompts
+🧠 17 AI Sessions, 175 AI Prompts
 
-Opus                     6,527 lines         █████████████████████████   100.00 % 
+Opus                     10,054 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.11% of written lines came from AI
-📄 Detailed Prompter — average 672 characters per prompt
+🤖 AI-Driven — 95.32% of written lines came from AI
+📄 Detailed Prompter — average 631 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 7.3% of changed lines were hand-edited
+🚀 High AI Trust — 5.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     16 repos            ██████████░░░░░░░░░░░░░░░   39.02 % 
-TypeScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Ruby                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Java                     16 repos            ██████████░░░░░░░░░░░░░░░   38.10 % 
+TypeScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Ruby                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 
 
 
 
- Last Updated on 20/11/2026 00:53:47 UTC
+ Last Updated on 21/11/2026 00:11:46 UTC
 <!--END_SECTION:waka-->
 
 </details>
