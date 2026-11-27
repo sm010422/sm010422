@@ -127,34 +127,34 @@ Sunday                   1190 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 19 mins       ███████████░░░░░░░░░░░░░░   45.94 % 
-Markdown                 3 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   37.68 % 
-C++                      1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-TypeScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Other                    4 hrs 19 mins       ███████████░░░░░░░░░░░░░░   44.67 % 
+Markdown                 3 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   36.60 % 
+C++                      1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+C                        16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+TypeScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 🔥 Editors: 
-Ghostty                  4 hrs 46 mins       █████████████░░░░░░░░░░░░   50.70 % 
-Claude Code              2 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   26.29 % 
-Neovim                   2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+Ghostty                  4 hrs 46 mins       ████████████░░░░░░░░░░░░░   49.30 % 
+Claude Code              2 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
+Neovim                   2 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
 
 🐱‍💻 Projects: 
-frontend-platform-assignm5 hrs 57 mins       ████████████████░░░░░░░░░   63.34 % 
-ghostty-contrib          1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-Unknown Project          1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-openwhispr               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-terminal_backup          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+frontend-platform-assignm6 hrs 11 mins       ████████████████░░░░░░░░░   63.98 % 
+ghostty-contrib          1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Unknown Project          1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+openwhispr               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+terminal_backup          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 💻 Operating System: 
-Mac                      9 hrs 24 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 31 mins (37.43%)
+⏱ AI Coding Time: 3 hrs 31 mins (36.37%)
 
-✍️ 4,091 lines written by AI, 211 lines written by hand (95.1% AI-written)
+✍️ 4,091 lines written by AI, 244 lines written by hand (94.37% AI-written)
 
 🔤 1,523,811 Input Tokens, 373,916 Output Tokens
 
@@ -165,10 +165,10 @@ Mac                      9 hrs 24 mins       ███████████�
 Opus                     4,118 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.1% of written lines came from AI
+🤖 AI-Driven — 94.37% of written lines came from AI
 📄 Detailed Prompter — average 1,221 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 5.83% of changed lines were hand-edited
+🚀 High AI Trust — 6.54% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -184,7 +184,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2026 01:59:58 UTC
+ Last Updated on 27/11/2026 01:56:56 UTC
 <!--END_SECTION:waka-->
 
 </details>
