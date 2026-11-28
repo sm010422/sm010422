@@ -88,7 +88,7 @@
 > 💡 **Other** is terminal time tracked by WakaTime (tmux, zsh, etc.)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-184%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-184%20hrs%2029%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -127,48 +127,48 @@ Sunday                   1190 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 19 mins       ███████████░░░░░░░░░░░░░░   44.67 % 
-Markdown                 3 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   36.60 % 
-C++                      1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-C                        16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-TypeScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Other                    3 hrs 11 mins       ███████████░░░░░░░░░░░░░░   45.39 % 
+Markdown                 1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   26.78 % 
+C++                      1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+C                        16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 🔥 Editors: 
-Ghostty                  4 hrs 46 mins       ████████████░░░░░░░░░░░░░   49.30 % 
-Claude Code              2 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
-Neovim                   2 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
+Ghostty                  3 hrs 25 mins       ████████████░░░░░░░░░░░░░   48.71 % 
+Neovim                   2 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   30.56 % 
+Claude Code              1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
 
 🐱‍💻 Projects: 
-frontend-platform-assignm6 hrs 11 mins       ████████████████░░░░░░░░░   63.98 % 
-ghostty-contrib          1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Unknown Project          1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-openwhispr               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-terminal_backup          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+frontend-platform-assignm4 hrs 32 mins       ████████████████░░░░░░░░░   64.75 % 
+Unknown Project          1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+nvim                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+terminal_backup          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+openwhispr               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 💻 Operating System: 
-Mac                      9 hrs 40 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 31 mins (36.37%)
+⏱ AI Coding Time: 2 hrs 6 mins (29.98%)
 
-✍️ 4,091 lines written by AI, 244 lines written by hand (94.37% AI-written)
+✍️ 568 lines written by AI, 362 lines written by hand (61.08% AI-written)
 
-🔤 1,523,811 Input Tokens, 373,916 Output Tokens
+🔤 1,223,586 Input Tokens, 182,324 Output Tokens
 
-💵 $23.02 Estimated AI Cost This Week
+💵 $13.38 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 37 AI Prompts
+🧠 11 AI Sessions, 33 AI Prompts
 
-Opus                     4,118 lines         █████████████████████████   100.00 % 
+Opus                     591 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.37% of written lines came from AI
-📄 Detailed Prompter — average 1,221 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 6.54% of changed lines were hand-edited
+⚖️ Balanced with AI — 61.08% of written lines came from AI
+📄 Detailed Prompter — average 672 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 40.54% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -184,7 +184,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/11/2026 01:56:56 UTC
+ Last Updated on 28/11/2026 01:39:06 UTC
 <!--END_SECTION:waka-->
 
 </details>
